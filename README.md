@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roy26958
+- 👋 Hi, I’m Roy
 - 👀 I’m interested in cyber security, mobile development, desktop development & robotics
 
 <!---
